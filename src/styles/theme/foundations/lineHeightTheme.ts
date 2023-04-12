@@ -1,0 +1,21 @@
+/* eslint-disable @typescript-eslint/naming-convention,quote-props */
+export const lineHeightTheme = {
+  '3': '.75rem',
+  '4': '1rem',
+  '5': '1.25rem',
+  '6': '1.5rem',
+  '7': '1.75rem',
+  '8': '2rem',
+  '9': '2.25rem',
+  '10': '2.5rem',
+  '11': '2.75rem',
+  '12': '3rem',
+  '14': '3.5rem',
+  normal: 'normal',
+  none: 1,
+  shorter: 1.25,
+  short: 1.375,
+  base: 1.5,
+  tall: 1.625,
+  taller: '2',
+};
