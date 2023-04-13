@@ -25,8 +25,6 @@ module.exports = {
         'react/react-in-jsx-scope': 'off',
         'react/no-children-prop': 'off',
         'react/prop-types': 'off',
-        // TODO refactor code to remove this rule
-        '@typescript-eslint/no-explicit-any': 'off',
         'eslint-comments/no-unused-disable': 'off',
       },
     },
