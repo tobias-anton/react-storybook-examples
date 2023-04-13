@@ -1,0 +1,21 @@
+{
+  "language": {
+    "de": "Deutsch",
+    "en": "English"
+  },
+  "error": {
+    "PleaseFillIn": "Please fill in.",
+    "PleaseSelect": "Please select.",
+    "PleaseUpload": "Please upload.",
+    "MustNotExceedMax": "Must not exceed {{max}}.",
+    "MustNotFallBelowMin": "Must not fall below {{min}}.",
+    "EmailFormattingUnknown": "Email formatting unknown.",
+    "PleaseFillInLabeled": "Please fill in {{labeled}}.",
+    "MustBeFilledIn": "Must be filled in.",
+    "UseMaximumMaxCharacters": "Use maximum {{max}} characters.",
+    "UseAtLeastMinCharacters": "Use at least {{min}} characters.",
+    "PleaseSelectAtLeastOptions_one": "Please select at least {{count}} option.",
+    "PleaseSelectAtLeastOptions_other": "Please select at least {{count}} options.",
+    "PleaseSelectAMaximumOfOptions": "Please select a maximum of {{max}} options."
+  }
+}

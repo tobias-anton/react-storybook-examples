@@ -1,0 +1,21 @@
+{
+  "language": {
+    "de": "Deutsch",
+    "en": "English"
+  },
+  "error": {
+    "PleaseFillIn": "Bitte ausfüllen.",
+    "PleaseSelect": "Bitte auswählen.",
+    "PleaseFillInLabeled": "Bitte fülle {{labeled}} aus.",
+    "PleaseUpload":  "Bitte hochladen.",
+    "UseAtLeastMinCharacters": "Verwende mindestens {{min}} Zeichen.",
+    "UseMaximumMaxCharacters": "Verwende höchstens {{max}} Zeichen.",
+    "MustNotFallBelowMin": "Darf {{min}} nicht unterschreiten.",
+    "MustNotExceedMax": "Darf {{max}} nicht überschreiten.",
+    "EmailFormattingUnknown": "Email Formattierung unbekannt.",
+    "MustBeFilledIn": "Muss ausgefüllt sein.",
+    "PleaseSelectAtLeastOptions_one": "Bitte wähle mindestens {{count}} Option aus.",
+    "PleaseSelectAtLeastOptions_other": "Bitte wähle mindestens {{count}} Optionen aus.",
+    "PleaseSelectAMaximumOfOptions": "Bitte wähle maximal {{max}} Optionen aus."
+  }
+}
