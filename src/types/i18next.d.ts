@@ -7,6 +7,6 @@ declare module 'i18next' {
   // Extend CustomTypeOptions
   interface CustomTypeOptions {
     defaultNS: typeof DEFAULT_NS;
-    resources: TranslationKeyStructure.Namespaces;
+    resources: TranslationKeyStructure;
   }
 }
