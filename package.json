@@ -36,7 +36,8 @@
     "build-storybook": "build-storybook -s public",
     "prettier:check": "npx prettier --check .",
     "prettier:format": "npx prettier --write .",
-    "lint": "npx eslint src/ --ext .ts,.tsx"
+    "lint": "npx eslint src/ --ext .ts,.tsx",
+    "gen:transKeyFromText": "node scripts/genTranslationKeyFromText.js"
   },
   "eslintConfig": {
     "extends": [
