@@ -7,7 +7,7 @@
     "PleaseFillIn": "Bitte ausfüllen.",
     "PleaseSelect": "Bitte auswählen.",
     "PleaseFillInLabeled": "Bitte fülle {{labeled}} aus.",
-    "PleaseUpload":  "Bitte hochladen.",
+    "PleaseUpload": "Bitte hochladen.",
     "UseAtLeastMinCharacters": "Verwende mindestens {{min}} Zeichen.",
     "UseMaximumMaxCharacters": "Verwende höchstens {{max}} Zeichen.",
     "MustNotFallBelowMin": "Darf {{min}} nicht unterschreiten.",

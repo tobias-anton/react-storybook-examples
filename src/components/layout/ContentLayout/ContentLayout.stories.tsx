@@ -6,8 +6,8 @@ import {
   ContentFooter,
   ContentHeader,
   ContentLayout,
-  ContentTitle
-} from "./ContentLayout";
+  ContentTitle,
+} from './ContentLayout';
 
 export default {
   title: 'components/layout/ContentLayout',
